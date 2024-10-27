@@ -4,7 +4,7 @@ The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance 
 
 #### Challenge Overview
 
-This challenge invites students to debug, refactor, and enhance JavaScript functions designed for determining the trajectory of a spacecraft. The initial functions are flawed and may result in incorrect calculations.
+In this challenge, the aim is to debug, refactor, and enhance JavaScript functions designed for determining the trajectory of a spacecraft. The initial functions are flawed and may result in incorrect calculations.
 
 ![alt text](mars.gif)
 
